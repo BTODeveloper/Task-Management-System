@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^2.2.0",
+    "@heroicons/react": "^2.2.0",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.9",
+    "postcss": "^8.5.2",
+    "tailwindcss": "^4.0.6"
+  }
+}
