@@ -30,5 +30,14 @@ A modern task management application built with ASP.NET Core and React. A full-s
 
 ## Getting Started
 
-1. Clone the repository
-2. Start the backend:
+1. Clone the repository.
+2. Start the backend.
+3. Start the frontend.
+
+## Future Improvements
+
+While the current version is functional, some potential enhancements could include:
+- Task categories and filtering
+- Due date notifications
+- Team collaboration features
+- Performance optimization
